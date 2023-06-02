@@ -1,0 +1,80 @@
+[
+    {
+        "tshirt_name": "white",
+        "logo_name": "black",
+        "tshirt_color": [255, 255, 255, 191],
+        "logo_color": [0, 0, 0, 191]
+    },
+    {
+        "tshirt_name": "azul atol",
+        "logo_name": "aqua",
+        "tshirt_color": [70, 130, 180, 191],
+        "logo_color": [0, 255, 255, 191]
+    },
+    {
+        "tshirt_name": "yellow",
+        "logo_name": "orange",
+        "tshirt_color": [255, 255, 0, 191],
+        "logo_color": [255, 165, 0, 191]
+    },
+    {
+        "tshirt_name": "apple green",
+        "logo_name": "forest green",
+        "tshirt_color": [123, 182, 97, 191],
+        "logo_color": [34, 139, 34, 191]
+    },
+    {
+        "tshirt_name": "black",
+        "logo_name": "white",
+        "tshirt_color": [0, 0, 0, 191],
+        "logo_color": [255, 255, 255, 191]
+    },
+    {
+        "tshirt_name": "black",
+        "logo_name": "grey",
+        "tshirt_color": [0, 0, 0, 191],
+        "logo_color": [128, 128, 128, 191]
+    },
+    {
+        "tshirt_name": "laranja",
+        "logo_name": "bordo",
+        "tshirt_color": [255, 165, 0, 191],
+        "logo_color": [128, 0, 32, 191]
+    },
+    {
+        "tshirt_name": "red",
+        "logo_name": "orange",
+        "tshirt_color": [255, 0, 0, 191],
+        "logo_color": [255, 165, 0, 191]
+    },
+    {
+        "tshirt_name": "rosa orquidea",
+        "logo_name": "bordo",
+        "tshirt_color": [218, 112, 214, 191],
+        "logo_color": [128, 0, 32, 191]
+    },
+    {
+        "tshirt_name": "azul real",
+        "logo_name": "azul atol",
+        "tshirt_color": [0, 0, 255, 191],
+        "logo_color": [70, 130, 180, 191]
+    },
+    {
+        "tshirt_name": "rosa orquidea",
+        "logo_name": "red",
+        "tshirt_color": [218, 112, 214, 191],
+        "logo_color": [255, 0, 0, 191]
+    },
+    {
+        "tshirt_name": "verde maça",
+        "logo_name": "yellow",
+        "tshirt_color": [102, 205, 0, 191],
+        "logo_color": [255, 255, 0, 191]
+    },
+    {
+        "tshirt_name": "yellow",
+        "logo_name": "black",
+        "tshirt_color": [255, 255, 0, 191],
+        "logo_color": [0, 0, 0, 191]
+    }
+]
