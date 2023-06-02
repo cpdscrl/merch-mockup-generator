@@ -1,4 +1,5 @@
 import json
+import os
 from PIL import Image, ImageDraw, ImageFont
 
 # Load the input images
@@ -9,6 +10,9 @@ logo_mask_image = Image.open("logo-mask.png")
 # Load the font (assuming you have arial.ttf in the working directory)
 font = ImageFont.truetype('opensans.ttf', 20)
 
+# Create a new folder to store the output images
+output_folder = 'output_images'
+os.makedirs(output_folder, exist_ok=True)
 
 # Load color schemes from a JSON file
 with open("color_schemes.json", "r") as f:
@@ -48,6 +52,7 @@ for color_scheme in color_schemes:
     # Draw text
     draw.text((x, y), text, font=font, fill=fill)
 
-    # Save the final output image
+    # Save the final output image in the output folder
     filename = color_scheme['tshirt_name'] + '-with-' + color_scheme['logo_name'] + '.png'
-    final_output.save(filename.replace(' ', '-'))
+    output_path = os.path.join(output_folder, filename.replace(' ', '-'))
+    final_output.save(output_path)
