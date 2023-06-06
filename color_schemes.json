@@ -1,80 +1,90 @@
 [
     {
-        "tshirt_name": "white",
-        "logo_name": "black",
-        "tshirt_color": [255, 255, 255, 191],
-        "logo_color": [0, 0, 0, 191]
+        "tshirt": "Branco",
+        "logo": "Preto - 103"
     },
     {
-        "tshirt_name": "azul atol",
-        "logo_name": "aqua",
-        "tshirt_color": [70, 130, 180, 191],
-        "logo_color": [0, 255, 255, 191]
+        "tshirt": "Azul Atol - 144",
+        "logo": "Aqua - 154"
     },
     {
-        "tshirt_name": "yellow",
-        "logo_name": "orange",
-        "tshirt_color": [255, 255, 0, 191],
-        "logo_color": [255, 165, 0, 191]
+        "tshirt": "Cinza Matizado - 183",
+        "logo": "Branco"
     },
     {
-        "tshirt_name": "apple green",
-        "logo_name": "forest green",
-        "tshirt_color": [123, 182, 97, 191],
-        "logo_color": [34, 139, 34, 191]
+        "tshirt": "Verde Claro - 119",
+        "logo": "Verde - 109"
     },
     {
-        "tshirt_name": "black",
-        "logo_name": "white",
-        "tshirt_color": [0, 0, 0, 191],
-        "logo_color": [255, 255, 255, 191]
+        "tshirt": "Preto - 103",
+        "logo": "Cinza Matizado - 183"
     },
     {
-        "tshirt_name": "black",
-        "logo_name": "grey",
-        "tshirt_color": [0, 0, 0, 191],
-        "logo_color": [128, 128, 128, 191]
+        "tshirt": "Laranja - 128",
+        "logo": "Bordo - 115"
     },
     {
-        "tshirt_name": "laranja",
-        "logo_name": "bordo",
-        "tshirt_color": [255, 165, 0, 191],
-        "logo_color": [128, 0, 32, 191]
+        "tshirt": "Rosa Claro - 112",
+        "logo": "Bordo - 115"
     },
     {
-        "tshirt_name": "red",
-        "logo_name": "orange",
-        "tshirt_color": [255, 0, 0, 191],
-        "logo_color": [255, 165, 0, 191]
+        "tshirt": "Azul Real - 114",
+        "logo": "Verde Claro - 119"
     },
     {
-        "tshirt_name": "rosa orquidea",
-        "logo_name": "bordo",
-        "tshirt_color": [218, 112, 214, 191],
-        "logo_color": [128, 0, 32, 191]
+        "tshirt": "Amarelo - 108",
+        "logo": "Azul Eclipse - 104"
     },
     {
-        "tshirt_name": "azul real",
-        "logo_name": "azul atol",
-        "tshirt_color": [0, 0, 255, 191],
-        "logo_color": [70, 130, 180, 191]
+        "tshirt": "Lilás - 142",
+        "logo": "Cinzento - 113"
     },
     {
-        "tshirt_name": "rosa orquidea",
-        "logo_name": "red",
-        "tshirt_color": [218, 112, 214, 191],
-        "logo_color": [255, 0, 0, 191]
+        "tshirt": "Verde - 109",
+        "logo": "Azul Atol - 144"
     },
     {
-        "tshirt_name": "verde maça",
-        "logo_name": "yellow",
-        "tshirt_color": [102, 205, 0, 191],
-        "logo_color": [255, 255, 0, 191]
+        "tshirt": "Castanho Claro - 111",
+        "logo": "Branco"
     },
     {
-        "tshirt_name": "yellow",
-        "logo_name": "black",
-        "tshirt_color": [255, 255, 0, 191],
-        "logo_color": [0, 0, 0, 191]
+        "tshirt": "Azul Eclipse - 104",
+        "logo": "Laranja - 128"
+    },
+    {
+        "tshirt": "Aqua - 154",
+        "logo": "Preto - 103"
+    },
+    {
+        "tshirt": "Preto - 103",
+        "logo": "Branco"
+    },
+    {
+        "tshirt": "Bordo - 115",
+        "logo": "Preto - 103"
+    },
+    {
+        "tshirt": "Vermelho - 105",
+        "logo": "Bordo - 115"
+    },
+    {
+        "tshirt": "Branco",
+        "logo": "Cinza Matizado - 183"
+    },
+    {
+        "tshirt": "Branco",
+        "logo": "Laranja - 128"
+    },
+    {
+        "tshirt": "Branco",
+        "logo": "Azul Atol - 144"
+    },
+    {
+        "tshirt": "Branco",
+        "logo": "Branco"
+    },
+    {
+        "tshirt": "Preto - 103",
+        "logo": "Preto - 103"
     }
 ]
